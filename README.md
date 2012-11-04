@@ -1,1 +1,1 @@
-This is a python program that parses search results from an Apache SOLR installation used with the DigiTool digital assets management system. It locates DigiTool records for archival collections that have been digitized and that have a finding aid.
+Parse search results from an Apache SOLR installation that indexes DigiTool, a digital assets management system. The script will locate records for archival collections that have been digitized and that have a finding aid.
